@@ -1,8 +1,4 @@
-Sure! Here's a **professional, clear, and comprehensive English version** of the `README.txt` file for your `remote-config-editor` package:
-
----
-
-## 📦 Remote Config Editor – README
+## 📦 Remote Config Editor
 
 This package contains a simple HTML tool to **edit external text content** for your mobile app (built with React Native or Expo).
 
@@ -91,6 +87,3 @@ Use it inside a global context like `RemoteConfigProvider` for best architecture
 - For private data or API keys, do **not** use this method.
 - Optional: you can extend the HTML editor to support more fields or auto-save.
 
----
-
-Would you like a version of this README as a Markdown file (`README.md`) for your repo?
